@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherReport</string>
+    <string name="error">错误</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dbname value="WeatherStore" ></dbname>
+    <version value="1" ></version>
+
+    <list>
+        <mapping class="cn.surine.weatherreport.Mvp.Bean.CityLove"></mapping>
+    </list>
+</resources>
